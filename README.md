@@ -22,7 +22,7 @@ Demonstrates CPU scheduling priority using the nice() value.
 Multiple CPU-intensive processes are created with different priorities to observe how system scheduling affects execution.
 
 ⚙️Tools and Technologies Used
-Python 3.x
-Visual Studio Code
-Ubuntu (Windows Subsystem for Linux – WSL)
-psutil library (for process management)
+1. Python 3.x
+2. Visual Studio Code
+3. Ubuntu (Windows Subsystem for Linux – WSL)
+4. psutil library (for process management)
